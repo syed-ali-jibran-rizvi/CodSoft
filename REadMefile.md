@@ -1,6 +1,6 @@
 
 
-# HealthBot: Rule-Based Chatbot for Health Information
+# TASK 1: HealthBot: Rule-Based Chatbot for Health Information
 
 ## Overview
 
@@ -65,5 +65,58 @@ To use HealthBot, follow these steps:
 1. Instantiate the HealthBot class.
 2. Enter your health-related query.
 3. Receive a response based on predefined rules.
+
+Certainly! Below is a sample README.md content for your AI-based Tic Tac Toe Android app:
+
+---
+
+# TASK 2: AI-Based Tic Tac Toe
+
+This Android application implements a Tic Tac Toe game with an AI opponent powered by the Minimax algorithm. Enjoy a challenging game against an intelligent adversary or play against a friend!
+
+## Features
+
+- **Minimax Algorithm**: The AI opponent utilizes the Minimax algorithm to make optimal moves and provide a challenging gameplay experience.
+- **Single Player Mode**: Play against the AI with adjustable difficulty levels.
+- **Interactive Interface**: User-friendly interface with intuitive controls for seamless gameplay.
+- **Responsive Design**: Designed for both smartphones and tablets, ensuring a consistent experience across devices.
+
+## Technologies Used
+
+- **Java**: The primary programming language used for Android app development.
+- **Android SDK**: The software development kit for building Android applications.
+- **Minimax Algorithm**: Implemented to power the AI opponent's decision-making process.
+- **XML**: Used for designing the user interface layouts.
+
+
+## Usage
+
+1. Launch the app on your Android device.
+2. Make your moves by tapping on the game board.
+3. Enjoy the game and challenge yourself with the AI opponent!
+
+
+# Task 4: Music Recommendation System
+
+This project implements a music recommendation system using natural language processing techniques and the Spotify API to provide personalized song suggestions based on user preferences.
+
+## Features
+
+- Personalized song recommendations
+- Utilizes Spotify API for access to a vast library of songs
+- Efficient algorithms for recommendation generation
+
+## Technologies Used
+
+- Python
+- Pandas
+- NLTK
+- Scikit-learn
+- Spotipy
+
+## Usage
+
+Run the application and input your preferences to receive personalized song recommendations.
+   
 
 ## Coded By Syed Ali Jibran Rizvi
