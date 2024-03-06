@@ -1,6 +1,4 @@
-Certainly! Below is the detailed README.md file:
 
----
 
 # HealthBot: Rule-Based Chatbot for Health Information
 
